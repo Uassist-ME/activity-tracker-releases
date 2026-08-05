@@ -6,14 +6,14 @@ Activity Tracker is a Windows application that monitors which apps and windows a
 
 ## Current Version
 
-**v1.0.0** — Initial release.
+**v1.4.0** — Private time.
 
 ## Download
 
 Head to the [**Releases**](../../releases) tab to download the latest version.
 
-| Asset | Description |
-|-------|-------------|
+| Asset                                    | Description              |
+| ---------------------------------------- | ------------------------ |
 | `Activity-Tracker-Installer-vx.x.x-.exe` | Windows 64-bit installer |
 
 ## Requirements
