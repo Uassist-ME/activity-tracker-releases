@@ -6,7 +6,7 @@ Activity Tracker is a Windows application that monitors which apps and windows a
 
 ## Current Version
 
-**v1.4.0** — Private time.
+**v1.4.1** — Private time.
 
 ## Download
 
